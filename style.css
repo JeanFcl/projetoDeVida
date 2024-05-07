@@ -15,7 +15,19 @@
     padding: 20px 0;
 }
 
-.cabecalho-imagem{
-    
+.cabecalho-imagem{}
+
+
+.pergunta, 
+.autores{ 
+background-image: linear-gradient(#040404, #4e4e4e);
+padding: 50mm;
+color: red;
+display: flex;
+justify-content: center;
+text-align: justify;
 }
 
+.pergunta-imagem {
+    width: 30%;
+}
